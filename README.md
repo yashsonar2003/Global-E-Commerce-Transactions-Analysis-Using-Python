@@ -45,6 +45,8 @@ Using a structured, multi-notebook approach (Jupter Notebook), the project cover
   4. Customer Segmentation.
   5. Trend & Pattern Analysis.
   6. Operational Performance Analysis.
+ 
+-----
 
 # Business Objectives:-
 - Analyze global and domestic sales performance.
@@ -54,15 +56,60 @@ Using a structured, multi-notebook approach (Jupter Notebook), the project cover
 - Identify revenue loss due to cancellations and returns.
 - Support data-driven business decision-making.
 
+-----
 
+# KPIs Calculated:-
+- Total Revenue.
+- Total Orders.
+- Average Order Value (AOV).
+- Revenue by Country & City.
+- Revenue by Product Category.
+- Repeat Customer Revenue Contribution.
+- Cancellation & Return Rate.
+- Average Delivery Time.
+- Revenue Loss from Cancellations & Returns.
+- Customer Rating Distribution.
 
+-----
 
+# Key Analytical Insights:-
+- A small number of countries contribute a majority of total revenue.
+- **Electronics and Travel** categories are the top revenue generators.
+- Repeat customers contribute significantly higher revenue than new customers.
+- **Premium and Luxury** orders drive disproportionate business value.
+- Faster delivery times are strongly associated with higher customer ratings.
+- Cancellations and returns cause noticeable revenue loss.
+- Certain product categories have higher return rates.
 
+-----
 
+# Key Learnings:-
+- Handling and analyzing large datasets (200K+ rows).
+- Structuring professional multi-notebook analytics projects.
+- Applying business-oriented thinking to technical analysis.
+- Translating raw data into actionable business insights.
+- Understanding the relationship between **Operations, Customer Satisfaction, and Revenue**.
 
+-----
 
+# Project Structure:-
+- Analysis/: Contains Analysis.ipynb Jupyter Notebook and clean data.
+- Insights/: Contains business findings and recommendations.
+- Raw_Data/: Contains Raw Data.
 
+-----
 
+# Key Outcome:-
+This project demonstrates the ability to:
+- Perform End-to-End data analysis using Python.
+- Extract meaningful insights from large datasets.
+- Analyze customer behavior, sales performance, and operations.
+- Communicate findings in a structured, business-focused manner.
 
+-----
 
+# Author:-
+**Yash Sonar**  
+BBA Student | Aspiring Data Analyst
 
+-----
