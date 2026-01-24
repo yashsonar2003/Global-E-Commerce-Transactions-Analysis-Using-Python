@@ -1,4 +1,4 @@
-# Global E-Commerce Transactions Analysis Using Python
+### Global E-Commerce Transactions Analysis Using Python
 
 # Project Summary:-
 This project is an **end-to-end Python Data Analysis project** focused on analyzing **Global E-Commerce Transactions** across **National (India)** and **International Markets**.
@@ -6,7 +6,8 @@ Using a structured, multi-notebook approach (Jupter Notebook), the project cover
 
 -----
 
-# Dataset Description:
+# Dataset Description:-
+
 - Total Rows: 201,110
 - Total Columns: 15
 - Data Scope: National (India) & International Markets
